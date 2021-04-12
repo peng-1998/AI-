@@ -1,13 +1,3 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
 
 # GAN学习笔记
 本文跟随[《A Review on Generative Adversarial Networks:Algorithms, Theory, and Applications》](https://arxiv.org/pdf/2001.06937.pdf)一文对GAN进行系统性学习。
